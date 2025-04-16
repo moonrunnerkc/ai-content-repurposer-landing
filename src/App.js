@@ -15,7 +15,7 @@ function App() {
           <li>✔️ Built with Tally, Make.com, and OpenAI</li>
         </ul>
         <div style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-          <a href="https://your-tally-form-link" style={{ padding: '0.75rem 1.25rem', background: '#111', color: '#fff', borderRadius: '8px', textDecoration: 'none', textAlign: 'center' }}>
+          <a href="https://tally.so/r/wvWvB0" style={{ padding: '0.75rem 1.25rem', background: '#111', color: '#fff', borderRadius: '8px', textDecoration: 'none', textAlign: 'center' }}>
             🚀 Try It Now
           </a>
           <a href="https://quartz-mass-2a0.notion.site/AI-Content-Repurposer-Sample-Results-1d7bae369b3580be8713e854f3511358" style={{ padding: '0.75rem 1.25rem', border: '1px solid #111', borderRadius: '8px', textDecoration: 'none', textAlign: 'center' }}>
